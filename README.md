@@ -21,6 +21,8 @@
 
 {"descriptions":"TCHAD","source":["http://51.122:8080/chad/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3NDZf/Chad.jpg","titles":"CHAD"},
 
+{"descriptions":"COMORES","source":["http://89.146.99/brazza/tracks-v1a1/mono.m3u89"],"subtitles":"ByChannel","thumbs":"https://od.lk/s/M18yOTYzMzEyNDZf/Comoros.png","titles":"COMORES"},
+
 {"descriptions":"CONGO BRAZZA","source":["http://89.146.99/brazza/tracks-v1a1/mono.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA4NDRf/congobrazza.jpeg","titles":"CONGO BRAZZA"},
 
 {"descriptions":"R.D.CONGO","source":["http://85.234:8080/Kinshasa/tracks-v1a1/mono.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA4Mzlf/DRCongo.png","titles":"CONGO KINSHASA"},
@@ -33,6 +35,8 @@
 
 {"descriptions":"ERYTREA","source":["http://89.146.99/ERYTREA/tracks-v1a1/mono.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3Mzlf/erytrea.png","titles":"ERYTREA"},
 
+{"descriptions":"ESWATINI.","source":["http://51.122:8080/EGYPT/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTYzMzEyNDFf/Eswatini..png","titles":"ESWATINI"},
+
 {"descriptions":"ETHIOPIA","source":["http://89.1.99:80/ETHIOPIA/tracks-v1a1/mono.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3NjVf/ethiopia.png","titles":"ETHIOPIA"},
 
 {"descriptions":"GABON","source":["https://5caa595d94/GABON/playlist.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA4Mjdf/gabon.png","titles":"GABON"},
@@ -43,7 +47,11 @@
 
 {"descriptions":"GUINEA","source":["http://51.122:8080/GUINEA/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3OTdf/guinea.png","titles":"GUINEA"},
 
+{"descriptions":"IL MAURICE","source":["http://51.122:8080/GUINEA/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTYzMzEyNDJf/ilmaurice.png","titles":"IL MAURICE"},
+
 {"descriptions":"KENYA","source":["http://51.122:8080/KENYA/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3NTRf/kenya.jpeg","titles":"KENYA"},
+
+{"descriptions":"LESOTHO","source":["http://51.122:8080/LIBERIA/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTYzMzEyNDlf/Lesotho.webp","titles":"LESOTHO"},
 
 {"descriptions":"LIBERIA","source":["http://51.122:8080/LIBERIA/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3OTZf/liberia.png","titles":"LIBERIA"},
 
@@ -59,7 +67,7 @@
 
 {"descriptions":"MAURITANIA","source":["http://51.122:8080/MAURITANIA/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3ODRf/Mauritania.png","titles":"MAURITANIA"},
 
-{"descriptions":"MOZAMBIQUE","source":["http://51.122:8080/MOZAMBIQUE/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3NTdf/Mozambique.png","titles":"MOZAMBIQUE"},
+{"descriptions":"MOZAMBIQUE","source":["http://51.122:8080/MOZAMBIQUE/index.m3u89"],"subtitles":"ByChannel","thumbs":"https://od.lk/s/M18yOTU0MzA3NTdf/Mozambique.png","titles":"MOZAMBIQUE"},
 
 {"descriptions":"NAMIBIA","source":["http://51.122:8080/NAMIBIA/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3NjBf/namibia.png","titles":"NAMIBIA"},
 
@@ -69,7 +77,11 @@
 
 {"descriptions":"RWANDA","source":["http://51.122:8080/RWANDA/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3NTBf/rwanda.png","titles":"RWANDA"},
 
+{"descriptions":"SAO TOME","source":["http://51.122:8080/SENEGAL/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTYzMzEyNDNf/saotome.png","titles":"SAO TOME"},
+
 {"descriptions":"SENEGAL","source":["http://51.122:8080/SENEGAL/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3NjRf/senegal.png","titles":"SENEGAL"},
+
+{"descriptions":"SEYCHELLE","source":["http://51.122:8080/SENEGAL/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTYzMzEyNDdf/Seychelles.png","titles":"SEYCHELLE"},
 
 {"descriptions":"SIERRA","source":["http://51.122:8080/SIERRA/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3OTBf/Sierra_Leone.png","titles":"SIERRA LEONNE"},
 
@@ -86,6 +98,8 @@
 {"descriptions":"TUNISIA","source":["http://51.122:8080/TUNISIA/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA4MDZf/Tunisia.png","titles":"TUNISIA"},
 
 {"descriptions":"UGANDA","source":["http://51.122:8080/UGANDA/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3NzNf/Uganda.png","titles":"UGANDA"},
+
+{"descriptions":"Democratic Republica of SAHARA WESTERN","source":["https://cloud.streamingconnect.tv/hls/rasdtv/rasdtv.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTYzMjkxNDRf/Flag_Sahrawi_Arab_Democratic_Republic.png","titles":"W-SAHARA"},
 
 {"descriptions":"ZAMBIA","source":["http://51.122:8080/ZAMBIA/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA3ODBf/Zambia.png","titles":"ZAMBIA"},
 
