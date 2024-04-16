@@ -1,5 +1,7 @@
 # berotv
-{"categorie":[{"names":"Movie","videos":[{"descriptions":"Bero TV est la premiere chaine numerique de la diasporas qui vous tienne compagnie de divers programmes tels que musiques, religion, gospel, infos, series etec....","source":["http://stream.zeno.fm/eyuiqh60p1qtv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTE5NjEyMDhf/phototwo.jpg","titles":"BERO TV"},
+{"categorie":[{"names":"Movie","videos":[{"descriptions":"Très cher Abonnés de BERO TV , Juste vous informer que pour des raisons d'entretiens techniques, toutes les chaînes seront indisponibles pendant 72h !!! Toutes nos excuses pour les désagréments causés indépendamment de notre volonté. Pour plus de détails, Veuillez nous contacter : congomonpays243@gmail.com","source":["https://stream.zeno.fm/3rbd2vdzpqlvv.mp39"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NzNfODA3NDk0MjVf/urgent.jpg","titles":"MESSAGE URGENT"},
+
+{"descriptions":"Bero TV est la premiere chaine numerique de la diasporas qui vous tienne compagnie de divers programmes tels que musiques, religion, gospel, infos, series etec....","source":["http://stream.zeno.fm/eyuiqh60p1qtv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTE5NjEyMDhf/phototwo.jpg","titles":"BERO TV"},
 
 {"descriptions":"ALGERIA","source":["http://69.64.208/algeria/index.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA4MDlf/algeria.png","titles":"ALGERIA"},
 
